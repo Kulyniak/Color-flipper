@@ -1,0 +1,18 @@
+.button-color{
+    color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 5px 8px 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    border-radius: 5px;
+    
+}
+.container{
+    text-align: center;
+    font-size: 25px;
+}
+.nav-center{
+    text-align: center;
+    font-size: 25px;
+}
